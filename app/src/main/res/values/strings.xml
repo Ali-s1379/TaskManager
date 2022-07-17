@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="new_username">New Username</string>
+    <string name="new_password">new Password</string>
+    <string name="password">Password</string>
+    <string name="e_mail_optional">E-mail(Optional)</string>
+    <string name="log_out">Log Out</string>
+    <string name="pass_discription">Warning : Password must be at least 8 characters, Contain an uppercase character, Contain a lowercase character and contain a number.</string>
+    <string name="button">Confirm</string>
+    <string name="title">Pick Date</string>
+    <string name="textview_title">Title</string>
+    <string name="textview_title_hint">Enter your title here</string>
+    <string name="textview_details">Details</string>
+</resources>

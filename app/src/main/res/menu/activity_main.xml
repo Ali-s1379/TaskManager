@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Sign Out"
+        android:id="@+id/sign_out"/>
+<!--    <item android:title="Delete All Tasks"-->
+<!--        android:id="@+id/delete_all"/>-->
+    <item
+        android:id="@+id/search_task"
+        android:title="Search"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/delete_task"
+        android:title="Delete All"
+        app:showAsAction="always"
+        />
+</menu>
